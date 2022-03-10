@@ -1,0 +1,18 @@
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+*.code-workspace
+.history/
+.history
+.ionide
+
+### Temporary ###
+*~
+
+### build result ###
+build/*
+builddir/*
