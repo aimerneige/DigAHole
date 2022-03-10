@@ -2,7 +2,9 @@
 
 A todo manage app for endless project idea.
 
-![jokes](./img/jokes.jpg)
+![jokes](./img/jokes_0.jpg)
+![jokes](./img/jokes_1.jpg)
+![jokes](./img/jokes_2.jpg)
 
 ~~This project may be another deprecated idea....~~
 
