@@ -38,11 +38,6 @@ namespace DigAHole {
             int height = get_height ();
             bool maximize = is_maximized ();
 
-            print ("before_destory");
-            print ("width: %d\n", width);
-            print ("height: %d\n", height);
-            print ("maximize: %s\n", maximize ? "true" : "false");
-
             settings.set_int ("window-width", width);
             settings.set_int ("window-height", height);
             settings.set_boolean ("is-maximized", maximize);
