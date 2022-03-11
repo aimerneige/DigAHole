@@ -4,7 +4,7 @@ executable(
     'Main.vala',
     'App.vala',
 
-    'ui/MainWindow.vala',
+    'Widgets/MainWindow.vala',
 
     dependencies: [
         dependency('gtk4')

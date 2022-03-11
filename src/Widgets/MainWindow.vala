@@ -1,4 +1,5 @@
 namespace DigAHole {
+
     public class MainWindow : Gtk.ApplicationWindow {
 
         public GLib.Settings settings;
