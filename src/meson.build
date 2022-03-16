@@ -6,10 +6,6 @@ executable(
 
     'Widgets/MainWindow.vala',
 
-    'Models/Project.vala'
-    'Models/Step.vala',
-    'Models/Tag.vala',
-
     dependencies: [
         dependency('gtk4')
     ],
